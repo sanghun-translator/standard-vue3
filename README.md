@@ -2,6 +2,9 @@
 ```
 vue create stand-vue
 select vue3 preview
+
+vue add vuetify
+select Preview(Vuerify 3 + Vite)
 ```
 
 ## Project setup
